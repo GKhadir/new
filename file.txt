@@ -1,3 +1,4 @@
 hi i am khadir
 hi in am git
 hi i am comminting agin and pushing
+hi i am comminting agin and by git
